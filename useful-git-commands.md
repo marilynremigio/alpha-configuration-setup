@@ -25,6 +25,15 @@
 - use git status to see where you are at in the process
 - add, commit, and push code into GitHub
 
+### Branching Notes 
+- branching protects your code from errors that can cause your app to be down in production
+- branching allows multiple people to work on code at the same time
+- branching is a best practice for all developers on all projects 
+- main branch - source of truth, should always be in a working state
+
+
+
+
 
 ## Terminal - Interface that allows access to command line
 ### (text-based commands)

@@ -17,8 +17,17 @@
 - commit - adding a tracking number and message to your version
 - diff - the difference between states of your local and GitHub repo
 
+### Git Process Notes
+- create a new repo on GitHub
+- clone the repo to your local
+- add a new file
+- add code to the new file
+- use git status to see where you are at in the process
+- add, commit, and push code into GitHub
+
+
 ## Terminal - Interface that allows access to command line
-(text-based commands)
+### (text-based commands)
 - pwd - shows location on computer 
 - ls - lists out what is inside that level
 - cd - change directory to go down a level

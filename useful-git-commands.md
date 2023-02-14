@@ -16,3 +16,12 @@
 - local - your personal computer
 - commit - adding a tracking number and message to your version
 - diff - the difference between states of your local and GitHub repo
+
+## Terminal - Interface that allows access to Command Line
+(text-based commands)
+- pwd - shows location on computer 
+- ls - lists out what is inside that level
+- cd - change directory to go down a level
+- cd .. - goes back up a level
+- mkdir - make a new directory
+- touch - create a new file 

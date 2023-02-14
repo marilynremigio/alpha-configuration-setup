@@ -17,7 +17,7 @@
 - commit - adding a tracking number and message to your version
 - diff - the difference between states of your local and GitHub repo
 
-## Terminal - Interface that allows access to Command Line
+## Terminal - Interface that allows access to command line
 (text-based commands)
 - pwd - shows location on computer 
 - ls - lists out what is inside that level
@@ -25,3 +25,9 @@
 - cd .. - goes back up a level
 - mkdir - make a new directory
 - touch - create a new file 
+- code . - opens file in VS Code
+- open "filename" - opens file
+- "filename/" - shortcut to access file
+- open . - opens file
+- ~ - takes you back to the start
+- clear - clears commands

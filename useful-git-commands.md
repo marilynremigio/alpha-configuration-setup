@@ -36,8 +36,14 @@
 - branch - an alternative timeline where a developer can code safely
 - main - the branch where only working code is allowed
 - git checkout - command to navigate between branches
-- git checkout -b - creates a new branch that doesn't currently exist
-- git branch -d - deletes a branch 
+- checkout -b - creates a new branch that doesn't currently exist
+- branch -d - deletes a branch 
+
+### Branching Commands
+- $ `git checkout -b branch-name` - creates new branch that doesn't exist
+- $ `git branch` - lists all the current branches on your local and shows which branch you are on
+- $ `git branch -d branch-name` - deletes a branch when you are done 
+- $ `git checkout main` - navigates back to main branch
 
 
 
